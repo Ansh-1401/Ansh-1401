@@ -22,7 +22,7 @@ I'm **Ansh Srivastava**, but they call me **Mambaa**.
 
 
 <p align="center">
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-1401&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh1401&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
  <br>
  <img src="https://github-readme-stats.vercel.app/api?username=Ansh-1401&show_icons=true&theme=tokyonight" width="49%"/>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-1401&theme=tokyonight" width="100%"/>
